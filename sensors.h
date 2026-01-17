@@ -1,7 +1,6 @@
 #pragma once
 #include <Arduino.h>
 
-using namespace std;
 
 // class definition
 class UltrasonicSensor{
