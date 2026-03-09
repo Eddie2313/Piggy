@@ -1,7 +1,7 @@
 #translation from sensor.cpp
 #using only one sensor for now
 import time
-from sensors import UltrasonicSensor
+from sensors1 import UltrasonicSensor
 from gpiozero import Motor
 
 #this is how we create motors, the numbers are the pins on the pi
